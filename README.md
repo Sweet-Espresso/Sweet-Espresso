@@ -7,8 +7,8 @@
 
 <br/>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sweet-Espresso&show_icons=true&theme=dark&layout=compact" alt="git-status" class="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweet-Espresso&theme=dark&layout=compact&langs_count=7" alt="top-langs" class="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sweet-Espresso&show_icons=true&theme=dark&layout=compact&count_private=true" alt="git-status" class="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweet-Espresso&theme=dark&layout=compact&langs_count=7&count_private=true" alt="top-langs" class="center">
 </p>
 
 ### 🔧 › Tools
