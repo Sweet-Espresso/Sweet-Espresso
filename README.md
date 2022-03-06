@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on small projects for experience
-- 📫 How to reach me: authorofchange8@gmail.com
 
 <br/>
 <p align="center">
